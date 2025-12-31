@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.3
+aiohttp==3.9.5
+lxml==5.1.0
+requests==2.31.0

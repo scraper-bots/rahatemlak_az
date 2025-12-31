@@ -1,0 +1,5 @@
+.claude
+*.log
+*.pkl
+test_scraper.py
+venv
