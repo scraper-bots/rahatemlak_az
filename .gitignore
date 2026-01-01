@@ -3,3 +3,4 @@
 *.pkl
 test_scraper.py
 venv
+failed_urls.txt
